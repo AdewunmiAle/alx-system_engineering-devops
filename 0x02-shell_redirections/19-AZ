@@ -1,0 +1,2 @@
+#!/bin/bash
+tr 'Ac' 'Ze' < filename.txt > output.txt
