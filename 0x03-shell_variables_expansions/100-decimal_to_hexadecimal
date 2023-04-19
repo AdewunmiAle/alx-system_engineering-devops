@@ -1,0 +1,2 @@
+#!/bin/bas
+ptintf '%x\n' $DECIMAL
